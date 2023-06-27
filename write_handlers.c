@@ -3,7 +3,7 @@
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - Prints a character
- * @c: The character to be printed
+ * @c: The char to be printed
  * @buffer: Buffer array for handling print
  * @flags: Flag calculation
  * @width: specifier for width
